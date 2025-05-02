@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "/images/potfolio.png",
+    "category": "basicweb",
+    "links": {
+      "view": "/",
+      "code": "https://github.com/Aniesh005"
+    }
+  },
+  {
+    "name": "Formula-1 Data Analysis",
+    "desc": " By leveraging data analytics, it aims to optimize decision-making in high-speed motorsport environments.",
+    "image": "/images/f1.png",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Aniesh005/Formula1/",
+      "code": "https://github.com/Aniesh005/Formula1/"
+    }
+  },
+  {
+    "name": "Joy Duo App",
+    "desc": "It's an android app which consists of two modules like Music Player and Calculator.",
+    "image": "/images/ak.jpg",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-bank",
+      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+    }
+  },
+  {
+    "name": "Dual App",
+    "desc": "It's an android app which consists of two modules like To-do List and Tic-tac-toe.",
+    "image": "/images/ak.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+    }
+  },
+  {
+    "name": "AI Drone Technology",
+    "desc": "This project focuses on using AI-powered drones for rapid detection and rescue operations during landslides.",
+    "image": "/images/drone.jpeg",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
+      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
+    }
+  }
+]
