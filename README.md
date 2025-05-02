@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases who I am, the skills I bring to the table, and the projects I’ve worked on — including my passion for Formula 1 data analytics and data-driven storytelling.
 
-📍 **Live Site:** [https://aniesh005.github.io/aniesh_portfolio/](https://aniesh005.github.io/aniesh_portfolio/)
+📍 **Live Site:** [https://aniesh005.github.io/Aniesh_Portfolio/](https://aniesh005.github.io/aniesh_portfolio/)
 
 ---
 
